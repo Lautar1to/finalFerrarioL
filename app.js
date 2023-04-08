@@ -1,7 +1,7 @@
 const stockProductos = [
   {
     id: 1,
-    nombre: "Celular",
+    nombre: "Celular TCL 305",
     cantidad: 1,
     precio: 53300,
     img: "img/celular.webp",
